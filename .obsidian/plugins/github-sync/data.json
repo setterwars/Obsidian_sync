@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/setterwars/Obsidian_sync.git",
+  "remoteURL": "git@github.com:setterwars/Obsidian_sync.git",
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": false
