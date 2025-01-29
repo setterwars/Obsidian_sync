@@ -11,3 +11,7 @@
 ## General Design Choices:
 Start from entity type, an attributes, or a relation types.
 The schema design process is an itterative 
+
+# Lab 2 
+
+## Enhanced ER Diagrams
