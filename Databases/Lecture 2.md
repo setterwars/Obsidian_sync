@@ -7,4 +7,7 @@
 - There are also slightly different notations
 ## Weak entetity vs Total participation 
  Dependency on another entity for identification, not just participation in a relationship.
- 
+
+## General Design Choices:
+Start from entity type, an attributes, or a relation types.
+The schema design process is an itterative 
