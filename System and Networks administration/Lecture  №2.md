@@ -4,3 +4,4 @@
 - Basic comands
 - File managment
 - Navigation
+- Slack space
