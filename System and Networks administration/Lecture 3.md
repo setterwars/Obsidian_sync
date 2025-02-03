@@ -42,3 +42,12 @@ $umaske [mode] - set/display umask value, e.g. 0022
 
 By default linux allocate premmisions as 666.
 
+## Special permissions
+SUID, SGID, Stiky bit.
+
+# Text editing and Text fiels
+
+## Stream text editors
+
+- SED
+- AWK - pattern scanning and processig text programming language.
