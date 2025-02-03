@@ -6,9 +6,10 @@
 * Server User(Like "regular", but cannot directly login)
 ```
 $less /etc/passwd
-```
+
 <username> : <password> : <UID> : <GID> : <GECOS> : <home_directory> : <shell>
 
+```
 sudo, su.
 
 sudo - run a command as another user.
@@ -40,3 +41,4 @@ $umaske [mode] - set/display umask value, e.g. 0022
 ```
 
 By default linux allocate premmisions as 666.
+
