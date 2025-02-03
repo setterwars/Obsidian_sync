@@ -11,3 +11,10 @@ $less /etc/passwd
 sudo, su.
 
 sudo - run a command as another user.
+su requires you to know the user's password, including root.
+
+$usseradd <username> - create a new user 
+$usermod <username> - modify a user add the user to the supplementary group
+$id <username> print user group IDs
+
+$sudo less /etc/shadow
