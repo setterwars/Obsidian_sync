@@ -51,3 +51,9 @@ SUID, SGID, Stiky bit.
 
 - SED
 - AWK - pattern scanning and processig text programming language.
+
+### AWK: syntax
+
+```
+awk [options] '[selection_criteria] {action}' input file
+```
