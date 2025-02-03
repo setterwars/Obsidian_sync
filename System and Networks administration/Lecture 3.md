@@ -1,6 +1,7 @@
 # Access Control & Text File processing
 
 ## Users groups and premissions 
+
 * Root(UID = 0)
 * Regular user(UID >= 1000)
 * Server User(Like "regular", but cannot directly login)
@@ -26,6 +27,7 @@ $sudo less /etc/shadow
 $chage <username> - modify /etc/shadow in interactive mode 
 ```
 ## Controll access
+
 ```
 $Chown user[:group] <file_name> - change file's user-owner and group-onwer 
 $chgrp <group> <filename> - change file's group-owner
@@ -43,9 +45,10 @@ $umaske [mode] - set/display umask value, e.g. 0022
 By default linux allocate premmisions as 666.
 
 ## Special permissions
+
 SUID, SGID, Stiky bit.
 
-# Text editing and Text fiels
+# Text file processing (AWK & SED)
 
 ## Stream text editors
 
