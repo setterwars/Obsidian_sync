@@ -60,3 +60,12 @@ SUID, SGID, Stiky bit.
 ```
 awk [options] '[selection_criteria] {action}' input file
 ```
+
+----
+# Lab 3 
+-----
+Regex haks
+
+```
+
+```

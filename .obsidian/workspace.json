@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System and Networks administration/Lecture 3.md",
+                "file": "Databases/Lab 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3"
+              "title": "Lab 3"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "b6684cdedd43322b",
   "lastOpenFiles": [
-    "System and Networks administration/Lecture  №3.md",
     "System and Networks administration/Lecture 3.md",
+    "Databases/Lab 3.md",
+    "System and Networks administration/Lecture  №3.md",
     "2025-02-03.md",
     "Databases/Lecture 2.md",
     "System and Networks administration/Lecture  №2.md",
