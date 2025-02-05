@@ -12,3 +12,7 @@ Join $R_1$ and $R_2$ is a $R_1 R_2$.
 π Name (π SID ((π PID σ SID = 4 (Catalogue)) ⨝ (Catalogue)) ⨝ (Supplier))
 ```
 ## EX 2
+```
+π Name ((π SID (Catalogue) - (π SID (π PID ((π SID (σ City = 'Kazan' (Supplier))) ⨝ (Catalogue)) ⨝ (Catalogue)))) ⨝ (Supplier))
+```
+## EX 3 
