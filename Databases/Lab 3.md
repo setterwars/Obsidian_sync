@@ -16,3 +16,6 @@ Join $R_1$ and $R_2$ is a $R_1 R_2$.
 π Name ((π SID (Catalogue) - (π SID (π PID ((π SID (σ City = 'Kazan' (Supplier))) ⨝ (Catalogue)) ⨝ (Catalogue)))) ⨝ (Supplier))
 ```
 ## EX 3 
+```
+π Item, Color ((( π PID, SID (Catalogue)) ÷ (π SID (σ City = 'Moscow' (Supplier)))) ⨝ Product)
+```
