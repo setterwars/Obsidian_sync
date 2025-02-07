@@ -29,3 +29,15 @@ Connection types:
 ![[Pasted image 20250207141139.png]]
 SMTP - Simple mail transfer protocol
 
+
+#  Web Cookies and caching
+
+A Web server may use "cookie" for identifying and storing user data.
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.3",
+	"filepath": "Ink/Writing/2025.2.7 - 14.33pm.writing"
+}
+```
+Cookie a small text file (server name, serve ID number) pair, to recognize a 
