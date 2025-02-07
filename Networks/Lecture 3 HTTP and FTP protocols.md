@@ -35,3 +35,8 @@ SMTP - Simple mail transfer protocol
 A Web server may use "cookie" for identifying and storing user data.
 
 Cookie a small text file (server name, serve ID number) pair, to recognize a client by certain a Web server.
+
+## HTML pages: Background 
+Addressable by a unique identifier - a Unified Resources Locator (URL) address
+// TO DO complete from presentation
+
