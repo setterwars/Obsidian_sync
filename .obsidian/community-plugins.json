@@ -1,5 +1,7 @@
 [
   "github-sync",
   "share-note",
-  "calendar"
+  "calendar",
+  "ink",
+  "slash-commander"
 ]
