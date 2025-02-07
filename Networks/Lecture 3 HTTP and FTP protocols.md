@@ -26,3 +26,6 @@ Connection types:
 * Control: commands and replies
 * Data: file transfer
 ---
+![[Pasted image 20250207141139.png]]
+SMTP - Simple mail transfer protocol
+
