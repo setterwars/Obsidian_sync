@@ -22,3 +22,7 @@ FTP: Large file transport
 	"filepath": "Ink/Writing/2025.2.7 - 13.30pm.writing"
 }
 ```
+Connection types:
+* Control: commands and replies
+* Data: file transfer
+---
