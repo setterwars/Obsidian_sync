@@ -12,3 +12,13 @@ Request/response paradigms:
 	"filepath": "Ink/Writing/2025.2.7 - 13.13pm.writing"
 }
 ```
+HTTP: webpage retrival
+FTP: Large file transport
+
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.3",
+	"filepath": "Ink/Writing/2025.2.7 - 13.30pm.writing"
+}
+```
