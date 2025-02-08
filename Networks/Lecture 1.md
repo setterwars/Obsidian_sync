@@ -52,4 +52,30 @@ Source ans destination host
 	"filepath": "Ink/Writing/2025.2.8 - 15.43pm.writing"
 }
 ```
-Source host send data, Destination host recives data
+Source host send data, Destination host recives data.
+Packets: A block of data of  a pre-defined size.
+
+##### Router like devices:
+- Switch 
+- Bridge 
+- Hub 
+- WIFI Access Point 
+- Repeater
+
+Network address: Unique identifier for a host.
+Network address types: 
+- Media access control(MAC) address. Burned-in into network interface card.
+- Internet Protocol (IP) address. Assigned dynamically, changed over time. 
+	-  IP version 4 (IPv4)
+	-  IP version 6 (IPv6)
+
+Network node Types: 
+- Network hosts 
+	- Source Host
+	- Destination Host
+- Intermediate Network Nodes
+	- Routers 
+		- Gateway Routers 
+		- (WIFI) repeater
+	- Switches 
+	- Bridges 
