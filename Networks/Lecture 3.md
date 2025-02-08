@@ -1,3 +1,6 @@
+
+# HTTP and FTP protocols
+
 Client-server communication
 Request response (HTTP webpage retrieval )
 
@@ -14,7 +17,6 @@ Request/response paradigms:
 ```
 HTTP: webpage retrival
 FTP: Large file transport
-
 
 ```handwritten-ink
 {
