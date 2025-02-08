@@ -20,4 +20,45 @@
 - Services: IP addresses allocation, domain name registration, web hosting, etc. 
 - Owns MAN or WAN networks.
 #### Content provider network
-- Servers nertwork of a 
+- Servers network of a content provider 
+- Numerous user requests are handled by different servers.
+- Needed for handling simultaneous requests with acceptable quality (delay)
+- Can be either local or geographically distributed network
+#### Enterprise Network
+- Midsize or large enterprise IT infrastructure
+- LAN
+#### Mobile Network
+- A large-scale wireless network
+- Radio waves transmission medium
+- Multiple radio base stations over large area 
+- Mobile Host dynamically reconnect between stations 
+#### National or Global Internet Service Providers (ISP)
+- Some Russian national ISP: Rostelecom, MTS, Relkom (Demos)
+- Provide an Internet connection across a country
+- Services:
+	-  IP address allocation to a local providers or end users
+	- Domain name registration 
+	- Web hosting etc.
+- Operation with WAN network infrastructure
+
+**The internet - the network of the networks**
+
+#### The internet standards
+- Request for Comments (RFC)
+- Internet Engineering Task Force (IETF)
+- The internet corporation for Assigned Names and Numbers (ICANN)
+
+# OSI model Application Layer Protocols HTTP and FTP
+#### OSI reference model 
+![[Pasted image 20250208172519.png]]
+### Analogy: OSI to Physical Letter Delivery 
+
+| OSI Layer    | Paper latter Sending Analogy                                    |
+| ------------ | --------------------------------------------------------------- |
+| Application  | Letter content                                                  |
+| Presentation | Letter content language, destination address language           |
+| Session      | Post office visit, letter type choice , signatures and payments |
+| Transport    | Overall letter delivery process (e.g. Avoidance of letter loss) |
+| Network      | Letter delivery route                                           |
+| Data link    | Letter transportation between adjucent points                   |
+| Physical     | Physical letter paper                                           |
