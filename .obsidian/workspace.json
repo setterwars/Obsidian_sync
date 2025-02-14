@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62bbaf76b9bbccc9",
+        "id": "0f69f3238dfdf1b6",
         "type": "tabs",
         "children": [
           {
-            "id": "fc800ae2c7ecd7e5",
+            "id": "1d2c3cd884ca7106",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Lecture 2.md",
+                "file": "Networks/Lecture 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2"
+              "title": "Lecture 4"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,34 +182,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2a8fd5736c39401c",
+  "active": "1d2c3cd884ca7106",
   "lastOpenFiles": [
-    "images/Pasted image 20250208172519.png",
-    "Networks/Lecture 1.md",
-    "Networks/Lecture 2.md",
-    "Ink/Writing/2025.2.8 - 15.43pm.writing",
-    "images/Pasted image 20250208153802.png",
-    "Ink/Writing/2025.2.8 - 15.27pm.writing",
+    "Ink/Writing/2025.2.14 - 14.43pm.writing",
     "Networks/Lecture 3.md",
-    "images",
     "Ink/Writing/2025.2.7 - 14.33pm.writing",
-    "images/Pasted image 20250207141139.png",
+    "Ink/Writing/2025.2.8 - 15.43pm.writing",
+    "Ink/Writing/2025.2.8 - 15.27pm.writing",
     "Ink/Writing/2025.2.7 - 13.30pm.writing",
+    "Ink/Writing/2025.2.11 - 11.03am.writing",
+    "Ink/Writing/2025.2.10 - 10.02am.writing",
     "Ink/Writing/2025.2.7 - 13.13pm.writing",
-    "Ink/Writing",
-    "Ink",
+    "Ink/Writing/2025.2.11 - 11.10am.writing",
+    "Ink/Writing/2025.2.11 - 10.59am.writing",
+    "Networks/Lecture 4.md",
+    "Networks/Lecture 2.md",
+    "Networks/Lecture 1.md",
+    "Databases/ERD to relational model mapping & introduction to SQL.md",
+    "Android app/Project Roudmap.md",
+    "Machine Learning/Lecture 4.md",
+    "Untitled Kanban.md",
+    "Android app/Приложение для учета доходов и расходов.md",
+    "Android development/Jetpack Compose.md",
+    "Untitled",
+    "Networks/Active and Passive FTP.md",
+    "System and Networks administration/Lecture 4.md",
+    "images/Pasted image 20250210094620.png",
+    "images/Pasted image 20250210094400.png",
+    "images/Pasted image 20250210070921.png",
+    "images/Pasted image 20250208172519.png",
+    "images/Pasted image 20250208153802.png",
+    "images/Pasted image 20250207141139.png",
     "Untitled.canvas",
     "Databases/Lab 3.md",
-    "Networks",
     "System and Networks administration/Lecture 3.md",
     "System and Networks administration/Lecture  №3.md",
     "2025-02-03.md",
     "Databases/Lecture 2.md",
     "System and Networks administration/Lecture  №2.md",
-    "Databases",
     "Welcome.md"
   ]
 }

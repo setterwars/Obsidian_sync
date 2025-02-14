@@ -9,6 +9,7 @@
 | Network Topology        | Ring, Star, full mesh, bus, Tree, Hybrid                                                                                     |
 | Performance Metircs     | Bandwidth(bits/sec) - max. transfer rate<br>Throughput(bits/sec) actual/average transfer rate<br>Packet loss, Error bit rate |
 | Proprietary type        | Open System: OSI-compliant, standart protocols<br>Properietary systems - private technologies and protocols                  |
+Most reliable network topology is Full mesh
 # Internet: Organization principles 
 #### Home network
 - connected devices with in a close vinicity of a home.
@@ -62,3 +63,14 @@
 | Network      | Letter delivery route                                           |
 | Data link    | Letter transportation between adjucent points                   |
 | Physical     | Physical letter paper                                           |
+
+### Network protocols
+- DHCP: Dynamic Host Configuration Protocol : IP addresses assignment
+- DNS: Damain name system : URL resolution protocol
+- HTTP: HyperTest Transfer protocol : Web page access
+- FTP: File transfer: Files Download/uplaod
+- SMTP: Simple Mail Transport : Email sending
+- POP: Post Office 
+- IMAP: Internet Message Access
+- MIME: Multipurpose Internet Mail Extensions 
+

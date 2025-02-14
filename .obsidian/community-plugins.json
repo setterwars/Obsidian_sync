@@ -1,8 +1,8 @@
 [
-  "github-sync",
   "share-note",
   "calendar",
   "ink",
   "slash-commander",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "obsidian-kanban"
 ]
