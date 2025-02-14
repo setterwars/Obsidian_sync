@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -153,12 +153,32 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "dcaaf3923ff74d84",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dab49958458a48bb",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4f8c98d2d7c83a40",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -182,11 +202,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "1d2c3cd884ca7106",
   "lastOpenFiles": [
+    "Ink/Writing/2025.2.14 - 15.33pm.writing",
+    "Networks/Lecture 4.md",
     "Ink/Writing/2025.2.14 - 14.43pm.writing",
     "Networks/Lecture 3.md",
     "Ink/Writing/2025.2.7 - 14.33pm.writing",
@@ -198,7 +221,6 @@
     "Ink/Writing/2025.2.7 - 13.13pm.writing",
     "Ink/Writing/2025.2.11 - 11.10am.writing",
     "Ink/Writing/2025.2.11 - 10.59am.writing",
-    "Networks/Lecture 4.md",
     "Networks/Lecture 2.md",
     "Networks/Lecture 1.md",
     "Databases/ERD to relational model mapping & introduction to SQL.md",
@@ -207,7 +229,6 @@
     "Untitled Kanban.md",
     "Android app/Приложение для учета доходов и расходов.md",
     "Android development/Jetpack Compose.md",
-    "Untitled",
     "Networks/Active and Passive FTP.md",
     "System and Networks administration/Lecture 4.md",
     "images/Pasted image 20250210094620.png",

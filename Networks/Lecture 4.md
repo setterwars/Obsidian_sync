@@ -1,4 +1,4 @@
-# Network Calculus
+
 ---
 ## Electronic Mail Timeline
 
@@ -30,3 +30,26 @@ local part can be Unquated and quated.
 	"filepath": "Ink/Writing/2025.2.14 - 14.43pm.writing"
 }
 ```
+
+
+# Network calculus
+
+## Network calculus basics
+
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.3",
+	"filepath": "Ink/Writing/2025.2.14 - 15.33pm.writing"
+}
+```
+
+| $U_s$                                 | Server maximum uplad speed, bytes/sec       |
+| ------------------------------------- | ------------------------------------------- |
+| $u_l$                                 | Server actual upload speed to Client $l$    |
+| $d^{max}_l$                           | Client $l$ maximum download speed           |
+| $d_l$                                 | Client $l$ actual speed                     |
+| $\sum^n_{l=1}(d_l)\leq U_s$           | Bound on total upload speed to $N$ client   |
+| $\sum^N_{l=1}(d_l)\leq U_s$           | Bound on total download speed by $N$ client |
+| $u_l \leq d_l^{max}$                  | Bounds on client $l$ download speed         |
+| $d_l = \min(d_l^{max},\frac{U_s}{N})$ | Bounds on client $l$ download speed         |
