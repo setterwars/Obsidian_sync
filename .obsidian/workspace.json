@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System and Networks administration/Lecture 5.md",
+                "file": "Deep Learning/Глава 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5"
+              "title": "Глава 2"
             }
           }
         ]
@@ -192,6 +192,16 @@
             "state": {
               "type": "reminder-list",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f3b8685d660011f0",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
               "icon": "clock",
               "title": "Reminders"
             }
@@ -217,8 +227,10 @@
   },
   "active": "1d2c3cd884ca7106",
   "lastOpenFiles": [
-    "Networks/Lecture 4.md",
     "System and Networks administration/Lecture 5.md",
+    "Deep Learning/Глава 2.md",
+    "Deep Learning",
+    "Networks/Lecture 4.md",
     "Ink/Writing/2025.2.14 - 15.33pm.writing",
     "Ink/Writing/2025.2.14 - 14.43pm.writing",
     "Networks/Lecture 3.md",
@@ -229,7 +241,6 @@
     "Ink/Writing/2025.2.11 - 11.03am.writing",
     "Ink/Writing/2025.2.10 - 10.02am.writing",
     "Ink/Writing/2025.2.7 - 13.13pm.writing",
-    "Ink/Writing/2025.2.11 - 11.10am.writing",
     "Networks/Lecture 2.md",
     "Networks/Lecture 1.md",
     "Databases/ERD to relational model mapping & introduction to SQL.md",
