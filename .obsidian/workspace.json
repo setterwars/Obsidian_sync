@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -261,10 +262,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a8fd5736c39401c",
+  "active": "4b0bfdc939e5b14e",
   "lastOpenFiles": [
     "images/Pasted image 20250228141653.png",
     "Pasted image 20250228141155.png",

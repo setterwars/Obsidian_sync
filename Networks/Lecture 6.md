@@ -53,3 +53,9 @@ Socket Libraries Introduced in Berkley Software Distribution (BSD) UNIX 4.2 and 
 
 ![[Pasted image 20250228141653.png]]
 **Congestion control** - is a network mechanism used to manage traffic load and prevent congestion collapse in communication networks, particularly in the TCP. It ensures efficient data transmission by regulating the rate at which packets are sent based on network conditions.
+
+## Socket programming in C language
+
+```c
+
+```
