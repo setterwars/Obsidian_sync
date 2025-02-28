@@ -242,6 +242,16 @@
             "state": {
               "type": "reminder-list",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1ea22070190cea65",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
               "icon": "clock",
               "title": "Reminders"
             }
@@ -262,8 +272,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "2a8fd5736c39401c",

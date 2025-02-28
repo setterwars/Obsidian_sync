@@ -73,13 +73,14 @@ int connectionSocketFD = accept(socketFD  $clientSocketAddress addressLength)
 ```
 
 ### Server side implementation 
+
 ```c
 #include <sys/socket.h>
 #include <netinet/in.h>
 
 int main(void) {
 	int serverSocket = socket(PF_INET, SOCK_STREAM, 0);
-	if (serverSocket = -1) {
+	if (serverSocket == -1) {
 		perror("failur to create socket");
 		exit(EXIT_FAILUR);
 	}
@@ -94,5 +95,23 @@ sa.sin_addr.s_addr = htonl(INADDR_ANY);
 
 int bindCode = bind(serverSocket, (struct sockaddr *) &sa, sizeof(sa));
 
+if (bindCode == -1) {/* error report */}
 
+int listenCode = linsten(serverSocket, 10);
+if (listenCode == -1) {/* error report */}
+
+for ( ; ; ) {
+	int connectionSocket = accept(serverSocket, NULL, NULL)
+	if (connectionSocket == -1) {/* error report */}
+
+	recsize = recv(
+		connectionSocket, 
+		(void*) buffer,
+		sizeof(buffer),)
+		0);
+	if (recsize < 0) {/* error report */}
+	printf("datagram: %, *s\n", (int)recsize, buffer);
+	...
+	close(connectionSocker)
+} // end of loop
 ```
