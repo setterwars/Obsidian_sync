@@ -62,3 +62,37 @@ arpa/inet.h - Function for manipulating with numeric IP addresses; An alternativ
 netdb.h - Translation function of host name
 sys/un.h - communication functions for local processes running on the same computer
 ![[Pasted image 20250228150632.png]]
+```c
+int SocketFD = socket(addressDomain socketType protocolCode)
+
+int bindCode = bind(socketFD socketAddress adressLength)
+
+int status = connect(socketFD remoteSocketAddress adressLength)
+
+int connectionSocketFD = accept(socketFD  $clientSocketAddress addressLength)
+```
+
+### Server side implementation 
+```c
+#include <sys/socket.h>
+#include <netinet/in.h>
+
+int main(void) {
+	int serverSocket = socket(PF_INET, SOCK_STREAM, 0);
+	if (serverSocket = -1) {
+		perror("failur to create socket");
+		exit(EXIT_FAILUR);
+	}
+}
+
+struct sockaddr_in sa;
+memset(&sa, 0, sizeof(sa));
+
+sa.sin_family = AF_INET;
+sa.sin_point = htons(1111);
+sa.sin_addr.s_addr = htonl(INADDR_ANY);
+
+int bindCode = bind(serverSocket, (struct sockaddr *) &sa, sizeof(sa));
+
+
+```
