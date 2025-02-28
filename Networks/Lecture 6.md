@@ -62,8 +62,3 @@ arpa/inet.h - Function for manipulating with numeric IP addresses; An alternativ
 netdb.h - Translation function of host name
 sys/un.h - communication functions for local processes running on the same computer
 ![[Pasted image 20250228150632.png]]
-
-
-```c
-
-```
