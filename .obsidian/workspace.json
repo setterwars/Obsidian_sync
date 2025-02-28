@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -267,8 +266,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b0bfdc939e5b14e",
+  "active": "2a8fd5736c39401c",
   "lastOpenFiles": [
+    "images/Pasted image 20250228150632.png",
     "images/Pasted image 20250228141653.png",
     "Pasted image 20250228141155.png",
     "Networks/Lecture 6.md",

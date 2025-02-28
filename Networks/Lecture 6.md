@@ -56,6 +56,14 @@ Socket Libraries Introduced in Berkley Software Distribution (BSD) UNIX 4.2 and 
 
 ## Socket programming in C language
 
+sys/socket.h - Core socket functions and data structure
+netinet/in.h - Data structure for representing IP addresses, TCP and UDP port numbers and other
+arpa/inet.h - Function for manipulating with numeric IP addresses; An alternative of netinet/in.h for some OS
+netdb.h - Translation function of host name
+sys/un.h - communication functions for local processes running on the same computer
+![[Pasted image 20250228150632.png]]
+
+
 ```c
 
 ```
