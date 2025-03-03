@@ -60,3 +60,9 @@ Entity type that do not have a key attributes of their own are called weak entit
 Weak relationship is a connection that exist between a weak entity type and its owner. 
 
 ## Tutorial 1
+Requirements Engineering
+In ERD we use Chen notation.
+
+---
+
+# Lecture 2. Data Modeling (EER diagrams)
