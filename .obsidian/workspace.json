@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -276,8 +275,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4b0bfdc939e5b14e",
+  "active": "2a8fd5736c39401c",
   "lastOpenFiles": [
+    "images/Pasted image 20250303200746.png",
     "Databases/Pasted image 20250303191850.png",
     "System and Networks administration/Lecture 7.md",
     "Databases/Lecture 1-6 recap for Midterm.md",
@@ -319,7 +319,6 @@
     "images/Pasted image 20250210094400.png",
     "images/Pasted image 20250210070921.png",
     "images/Pasted image 20250208172519.png",
-    "images/Pasted image 20250208153802.png",
     "Untitled.canvas",
     "Databases/Lab 3.md",
     "System and Networks administration/Lecture 3.md",

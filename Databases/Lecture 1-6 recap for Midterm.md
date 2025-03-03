@@ -66,3 +66,32 @@ In ERD we use Chen notation.
 ---
 
 # Lecture 2. Data Modeling (EER diagrams)
+
+#### Enhanced Entity Relationship Diagram (EERD)
+
+
+Concept: Superclass and subclass
+
+##### Constrains and characteristics
+
+- Disjoint (d) - Subclass a mutually exclusive
+- Overlapping(o) - Subclass can overlap; an entity can belong multiple subclass
+- Total specialization - Every superclass entity must belong to at least one subclass. Shown in EER diagrams by a double line
+- Partial specialization - Superclass entities do not have to belong to any subclass.Shown in EER diagrams by a single line.
+![[Pasted image 20250303200746.png]]
+
+---
+
+# Lecture 3. Relational model and Relational algebra
+
+### Relational model
+
+In the relational model all data must be stored in relations. Each relation consists of rows and columns. 
+
+##### Relational model constrains
+
+- Inheritance model-based constrains 
+- Schema based constrains 
+- Application based constrains 
+- Semantic Integrity Constrains
+- 
