@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System and Networks administration/Lecture 7.md",
+                "file": "Databases/Lecture 1-6 recap for Midterm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7"
+              "title": "Lecture 1-6 recap for Midterm"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -277,8 +278,9 @@
   },
   "active": "4b0bfdc939e5b14e",
   "lastOpenFiles": [
-    "Networks/Lecture 6.md",
     "System and Networks administration/Lecture 7.md",
+    "Databases/Lecture 1-6 recap for Midterm.md",
+    "Networks/Lecture 6.md",
     "images/Pasted image 20250228150632.png",
     "images/Pasted image 20250228141653.png",
     "Pasted image 20250228141155.png",
@@ -322,7 +324,6 @@
     "System and Networks administration/Lecture 3.md",
     "System and Networks administration/Lecture  №3.md",
     "2025-02-03.md",
-    "Databases/Lecture 2.md",
-    "System and Networks administration/Lecture  №2.md"
+    "Databases/Lecture 2.md"
   ]
 }
