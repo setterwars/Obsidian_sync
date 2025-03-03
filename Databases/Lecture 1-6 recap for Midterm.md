@@ -94,4 +94,48 @@ In the relational model all data must be stored in relations. Each relation cons
 - Schema based constrains 
 - Application based constrains 
 - Semantic Integrity Constrains
-- 
+
+
+#### Relational model operations
+- Delete
+- Update
+
+### Relational algebra
+
+##### Operators:
+ - Basic operators 
+	 - Unary operators
+		 - Projection 
+		 - Selection 
+		 - Rename
+	 - Binary operators
+		 - Union 
+		 - Cross product 
+		 - Minus/Set difference
+ - Extended / Derived operators 
+
+##### Select
+To select we use $\sigma$. Also we can use operations like OR, AND,NOT
+###### Project 
+To project we use $\pi$. 
+
+We can use project and select to see some part of relational model:
+
+**$\pi (\sigma (A > 100) A-numbers))$**
+
+###### Rename
+to rename we use $p$
+
+Relational algebra operations can be used with sets theory.  We can use Union, Intersection and Minus operations.
+
+Cross Product, Join, Division operation.
+
+### Tutorial 
+
+##### Cartesian product:
+![[Pasted image 20250303202405.png]]
+
+
+##### Joins 
+
+![[Pasted image 20250303202445.png]]
