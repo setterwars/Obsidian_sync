@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Lecture 6.md",
+                "file": "System and Networks administration/Lecture 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 6"
+              "title": "Lecture 7"
             }
           }
         ]
@@ -275,12 +275,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2a8fd5736c39401c",
+  "active": "4b0bfdc939e5b14e",
   "lastOpenFiles": [
+    "Networks/Lecture 6.md",
+    "System and Networks administration/Lecture 7.md",
     "images/Pasted image 20250228150632.png",
     "images/Pasted image 20250228141653.png",
     "Pasted image 20250228141155.png",
-    "Networks/Lecture 6.md",
     "images/photo_2025-02-28_14-04-39.jpg",
     "Ink/Writing/2025.2.28 - 13.05pm.writing",
     "images/photo_2025-02-28_13-04-10.jpg",
@@ -316,7 +317,6 @@
     "images/Pasted image 20250210070921.png",
     "images/Pasted image 20250208172519.png",
     "images/Pasted image 20250208153802.png",
-    "images/Pasted image 20250207141139.png",
     "Untitled.canvas",
     "Databases/Lab 3.md",
     "System and Networks administration/Lecture 3.md",
