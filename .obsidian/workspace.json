@@ -15,7 +15,8 @@
               "state": {
                 "file": "Databases/Lecture 1-6 recap.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Lecture 1-6 recap"
@@ -279,6 +280,11 @@
   },
   "active": "fbf4d864470c042e",
   "lastOpenFiles": [
+    "Pasted image 20250304202954.png",
+    "Pasted image 20250304202930.png",
+    "Pasted image 20250304160417.png",
+    "Pasted image 20250304160405.png",
+    "Pasted image 20250304160318.png",
     "Pasted image 20250304154002.png",
     "images/Pasted image 20250304123844.png",
     "Databases/Lecture 1-6 recap.md",
@@ -286,13 +292,8 @@
     "images/Pasted image 20250304123904.png",
     "images/Pasted image 20250304123853.png",
     "images/Pasted image 20250304123822.png",
-    "images/Pasted image 20250303202445.png",
-    "images/Pasted image 20250303202405.png",
-    "images/Pasted image 20250303200746.png",
-    "Databases/Pasted image 20250303191850.png",
     "System and Networks administration/Lecture 7.md",
     "Networks/Lecture 6.md",
-    "images/Pasted image 20250228150632.png",
     "Ink/Writing/2025.2.28 - 13.05pm.writing",
     "Databases/Lecture 6.md",
     "System and Networks administration/Lecture 6.md",

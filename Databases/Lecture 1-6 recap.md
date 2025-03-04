@@ -191,7 +191,7 @@ CREATE VIEW
 
 ALTER TABLE statement allows you to change column specification.
 
-To remove table we use a DROP TABLE <NAME> command
+To remove table we use a DROP TABLE NAME command
 
 To insert data i table we use INSERT command.
 
@@ -202,5 +202,87 @@ To modify data in the row we can use UPDATE command. For example:
 UPDATE Product_T
 SET ProductStandartPrice = 755
 WHERE ProductID = 7;
- 
 
+
+ 
+---
+
+# Lecture 5. SQL Advanced concepts.
+
+###### Select satements 
+
+``` SQL
+SELECT 
+FROM
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+```
+LIKE operator 
+To eliminate duplicates we can use command DISTINCT
+To ordering the result we can use ORDER BY command
+
+
+### Joins 
+
+Left join, right join, inner join, full join
+
+![[Pasted image 20250304160318.png]]
+
+### Cartesian product 
+![[Pasted image 20250304160405.png]]
+
+![[Pasted image 20250304160417.png]]
+
+---
+
+
+# Lecture 6. Database Normalization.
+
+Normalizations of Relations 
+
+
+### First Normal Form
+
+Disallows composite attributes, multivalued attributes, nested relations
+
+### Second normal Form
+
+Uses the concepts of FDs, primary key 
+Definitions:
+ - Prime attributes: An attribute that is member of the prymary key K
+ - Full functional dependency: a FD Y -> Z whe removal of any attributes from Y means the FD does not hold any more
+
+
+### Third normal form 
+
+Definition:
+ - Transitive functional dependency: a FD X -> Z that can be derived from two FDs X -> Y and Y -> Z
+
+
+### Boyce-Codd Normal Form 
+
+whenever an FD X -> A holds R, then X is a superkey of R
+
+
+# Exercises
+
+![[Pasted image 20250304202930.png]]
+
+Normalize Version of this DB
+
+**Staff**
+
+| StaffNo(PK) | dentistName   |
+| ----------- | ------------- |
+| S1011       | Tony Smith    |
+| S1024       | Helen Pearson |
+| S1032       | Robin Plevin  |
+
+**Patients**
+
+
+|     |     |
+| --- | --- |
+|     |     |
