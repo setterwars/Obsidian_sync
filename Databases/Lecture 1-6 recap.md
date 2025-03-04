@@ -150,3 +150,57 @@ Cross Product, Join, Division operation.
 ![[Pasted image 20250304123853.png]]
 ![[Pasted image 20250304123904.png]]
 ![[Pasted image 20250304123916.png]]
+
+### ERD to relational schema
+
+1. Convert all entity sets in to talbles
+2. Create relation between entity sets  
+3. Implement schema in SQL''
+
+![[Pasted image 20250304154002.png]]
+
+**Supplier** 
+
+| *Sname* | ... |
+| ------- | --- |
+**Projects**
+
+| *ProjName* | ... |
+| ---------- | --- |
+**Part**
+
+| *PartNo* | ... |
+| -------- | --- |
+
+**Supply**
+
+| *Sname* | *ProjName* | *PartNo* | Quality |
+| ------- | ---------- | -------- | ------- |
+
+## Introduction to SQL
+
+##### SQL environment
+Catalog, Schema, Data Definition Language (DDL), Data Manipulation Language (DML),
+Data control language (DCL)
+
+
+###### Major create statements 
+CREATE SCHEMA 
+CREATE TABLE
+CREATE VIEW
+
+ALTER TABLE statement allows you to change column specification.
+
+To remove table we use a DROP TABLE <NAME> command
+
+To insert data i table we use INSERT command.
+
+DELETE is a statement to remove rows from the table
+
+To modify data in the row we can use UPDATE command. For example:
+
+UPDATE Product_T
+SET ProductStandartPrice = 755
+WHERE ProductID = 7;
+ 
+
