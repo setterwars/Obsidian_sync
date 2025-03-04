@@ -1,4 +1,4 @@
-#forMidterm
+#forMidterm #forFinal #justRecap
 # Lecture 1.  Introduction to databases Basic Concepts. Data models, Databases design, The Entity-Relationship Model
 
 **Data** -  is a collection of facts in a raw or unorganized form.
@@ -293,3 +293,13 @@ PatientStaff relation
 | staffNo | PatientNo | SurgeyNo |
 | ------- | --------- | -------- |
 |         |           |          |
+
+
+---
+# Lecture 7. Midterm
+
+#### Just good luck (No tutorial and labs)
+
+---
+
+# Lecture 8.
