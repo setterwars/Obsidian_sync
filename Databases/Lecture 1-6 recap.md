@@ -41,9 +41,9 @@ File based systems:
 - Attributes: a property that describes an entity
 
 ##### Entity keys:
-- Primary key: A candidate key chosen by the database designer to uniquely identify the entity set
-- Super key: A set of attributes(one or more) that together define an entity in an entity set
-- Candidate key: A minima super key
+- **Primary key**: A candidate key chosen by the database designer to uniquely identify the entity set
+- **Super key**: A set of attributes(one or more) that together define an entity in an entity set
+- **Candidate key**: A minima super key
 An entity set may have more than one candidate key.
 
 ##### Cardinality ratios 
@@ -274,15 +274,22 @@ Normalize Version of this DB
 
 **Staff**
 
-| StaffNo(PK) | dentistName   |
-| ----------- | ------------- |
-| S1011       | Tony Smith    |
-| S1024       | Helen Pearson |
-| S1032       | Robin Plevin  |
+| StaffNo(PK) | FirstName     | LastName |
+| ----------- | ------------- | -------- |
+| S1011       | Tony Smith    |          |
+| S1024       | Helen Pearson |          |
+| S1032       | Robin Plevin  |          |
 
 **Patients**
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| PatientNo | FirstName | LastName | Appointment date | time |
+| --------- | --------- | -------- | ---------------- | ---- |
+|           |           |          |                  |      |
+
+PatientStaff relation 
+
+
+| staffNo | PatientNo | SurgeyNo |
+| ------- | --------- | -------- |
+|         |           |          |
