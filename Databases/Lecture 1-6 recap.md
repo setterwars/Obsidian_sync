@@ -1,4 +1,4 @@
-
+#forMidterm
 # Lecture 1.  Introduction to databases Basic Concepts. Data models, Databases design, The Entity-Relationship Model
 
 **Data** -  is a collection of facts in a raw or unorganized form.
@@ -139,3 +139,14 @@ Cross Product, Join, Division operation.
 ##### Joins 
 
 ![[Pasted image 20250303202445.png]]
+
+---
+# Lecture 4. From ERD to relational scheme to SQL
+
+
+### Rules with Relationship
+
+![[Pasted image 20250304123844.png]]
+![[Pasted image 20250304123853.png]]
+![[Pasted image 20250304123904.png]]
+![[Pasted image 20250304123916.png]]
