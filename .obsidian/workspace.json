@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#justRecap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -278,8 +277,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fbf4d864470c042e",
+  "active": "fac717cc2e10b4c7",
   "lastOpenFiles": [
+    "Ink/Writing/2025.3.5 - 10.59am.writing",
     "Pasted image 20250304202954.png",
     "Pasted image 20250304202930.png",
     "Pasted image 20250304160417.png",
@@ -291,7 +291,6 @@
     "images/Pasted image 20250304123916.png",
     "images/Pasted image 20250304123904.png",
     "images/Pasted image 20250304123853.png",
-    "images/Pasted image 20250304123822.png",
     "System and Networks administration/Lecture 7.md",
     "Networks/Lecture 6.md",
     "Ink/Writing/2025.2.28 - 13.05pm.writing",

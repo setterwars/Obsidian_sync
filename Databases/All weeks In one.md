@@ -1,4 +1,4 @@
-#forMidterm #forFinal #justRecap
+#forMidterm #forFinal #Recap
 # Lecture 1.  Introduction to databases Basic Concepts. Data models, Databases design, The Entity-Relationship Model
 
 **Data** -  is a collection of facts in a raw or unorganized form.
@@ -44,6 +44,7 @@ File based systems:
 - **Primary key**: A candidate key chosen by the database designer to uniquely identify the entity set
 - **Super key**: A set of attributes(one or more) that together define an entity in an entity set
 - **Candidate key**: A minima super key
+- **Partial key:** Attribute of the week entity.
 An entity set may have more than one candidate key.
 
 ##### Cardinality ratios 
@@ -68,16 +69,19 @@ In ERD we use Chen notation.
 # Lecture 2. Data Modeling (EER diagrams)
 
 #### Enhanced Entity Relationship Diagram (EERD)
-
-
 Concept: Superclass and subclass
-
 ##### Constrains and characteristics
-
 - Disjoint (d) - Subclass a mutually exclusive
 - Overlapping(o) - Subclass can overlap; an entity can belong multiple subclass
 - Total specialization - Every superclass entity must belong to at least one subclass. Shown in EER diagrams by a double line
 - Partial specialization - Superclass entities do not have to belong to any subclass.Shown in EER diagrams by a single line.
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.3",
+	"filepath": "Ink/Writing/2025.3.5 - 10.59am.writing"
+}
+```
+
 ![[Pasted image 20250303200746.png]]
 
 ---
