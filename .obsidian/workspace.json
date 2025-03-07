@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System and Networks administration/Lecture  №2.md",
+                "file": "Networks/Lecture 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture  №2"
+              "title": "Backlinks for Lecture 7"
             }
           },
           {
@@ -140,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System and Networks administration/Lecture  №2.md"
+                "file": "Networks/Lecture 7.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture  №2"
+              "title": "Outline of Lecture 7"
             }
           },
           {
@@ -152,8 +155,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -162,8 +165,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -172,8 +175,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -192,8 +195,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -202,8 +205,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -212,8 +215,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -232,8 +235,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -242,8 +245,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -252,8 +255,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -266,7 +269,8 @@
               "title": "Reminders"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -282,11 +286,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbf4d864470c042e",
+  "active": "2a8fd5736c39401c",
   "lastOpenFiles": [
+    "images/Pasted image 20250307133441.png",
+    "images/Pasted image 20250307132523.png",
+    "Ink/Writing/2025.3.7 - 13.21pm.writing",
     "2025-03-07.md",
     "Networks/Lecture 7.md",
     "Ink/Writing/2025.3.7 - 13.00pm.writing",
@@ -304,7 +312,6 @@
     "images/Pasted image 20250304160417.png",
     "images/Pasted image 20250304160405.png",
     "Pasted image 20250304154002.png",
-    "images/Pasted image 20250304123844.png",
     "System and Networks administration/Lecture 7.md",
     "Ink/Writing/2025.2.28 - 13.05pm.writing",
     "Databases/Lecture 6.md",
@@ -319,7 +326,6 @@
     "Deep Learning",
     "Networks/Lecture 4.md",
     "Ink/Writing/2025.2.14 - 15.33pm.writing",
-    "Ink/Writing/2025.2.14 - 14.43pm.writing",
     "Networks/Lecture 3.md",
     "Networks/Lecture 2.md",
     "Networks/Lecture 1.md",
@@ -332,7 +338,6 @@
     "Networks/Active and Passive FTP.md",
     "System and Networks administration/Lecture 4.md",
     "Untitled.canvas",
-    "Databases/Lab 3.md",
-    "System and Networks administration/Lecture 3.md"
+    "Databases/Lab 3.md"
   ]
 }
