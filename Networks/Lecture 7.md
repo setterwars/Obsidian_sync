@@ -35,7 +35,7 @@ Network multiplexing is a technique that allows multiple signals or data streams
 | rdt_rcv()      | Reliable data receipt                            |
 | deliver_data() | Data delivery to upper layers                    |
 
-#RDT Modeling through FSM
+### RDT Modeling through FSM
 
 
 ```handwritten-ink
@@ -46,3 +46,4 @@ Network multiplexing is a technique that allows multiple signals or data streams
 ```
 
 
+![[Pasted image 20250307142331.png]]
