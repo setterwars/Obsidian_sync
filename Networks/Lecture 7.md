@@ -51,3 +51,8 @@ Network multiplexing is a technique that allows multiple signals or data streams
 
 ---
 # Routers and Switches 
+
+##### Switch types
+Memory 
+Broadcast
+point triggering fabric
