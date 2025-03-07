@@ -26,3 +26,23 @@ Network multiplexing is a technique that allows multiple signals or data streams
 
 ![[Pasted image 20250307133441.png]]
 
+### RDT Interface functions
+
+| RDT Function   | Description                                      |
+| -------------- | ------------------------------------------------ |
+| rdt_send()     | Reliable data sending                            |
+| udt_send()     | Unreliable data sending over a physical channell |
+| rdt_rcv()      | Reliable data receipt                            |
+| deliver_data() | Data delivery to upper layers                    |
+
+#RDT Modeling through FSM
+
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.3",
+	"filepath": "Ink/Writing/2025.3.7 - 14.08pm.writing"
+}
+```
+
+
