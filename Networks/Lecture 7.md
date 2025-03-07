@@ -46,4 +46,4 @@ Network multiplexing is a technique that allows multiple signals or data streams
 ```
 
 
-![[Pasted image 20250307142331.png]]
+![[Pasted image 20250307142331.png]]![[Pasted image 20250307142615.png]]
