@@ -27,3 +27,20 @@ Data is inherently noisy.
 
 {#} of defects in $p_i$ = $f({features Of p_i})$
 First part is $y_i$, second part is $x_i$
+
+From this we can create a linear regression formula.
+
+#### Linear regression formula:
+
+$y = w_0+w_1x_1 + w_2x_2 + + w_px_p$
+
+
+Least Square Solution 
+
+Polynomial Regression.
+
+
+---
+# Lecture 3. Gradient Descent, Logistic Regression, LoR Objective, Confusion Metrics, Accuracy, Precision, Recall, F1
+
+Gradient descent Learning the machine learning model by iteratively reducing the loss. More like how we learn: **learn by making mistakes**.
