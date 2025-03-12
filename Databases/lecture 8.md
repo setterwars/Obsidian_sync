@@ -18,4 +18,11 @@ Query tree is a tree data structure that corresponds to an extended relational a
 - Primary index 
 - Clustering index
 - Secondary index
-Types of single-level ordered Indexes:di
+Types of single-level ordered Indexes
+
+# Tutorial 8
+
+- Btree index
+- Hash index
+- gist index
+- 
