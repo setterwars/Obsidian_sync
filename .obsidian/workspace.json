@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/3 month road map.md",
+                "file": "Databases/lecture 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 month road map"
+              "title": "lecture 8"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -301,8 +302,9 @@
   },
   "active": "fbf4d864470c042e",
   "lastOpenFiles": [
-    "System and Networks administration/Lecture 8.md",
     "Backend/3 month road map.md",
+    "Databases/lecture 8.md",
+    "System and Networks administration/Lecture 8.md",
     "images/Pasted image 20250307142331.png",
     "Networks/Lecture 7.md",
     "Backend",
@@ -346,7 +348,6 @@
     "Android app/Приложение для учета доходов и расходов.md",
     "Android development/Jetpack Compose.md",
     "Networks/Active and Passive FTP.md",
-    "System and Networks administration/Lecture 4.md",
     "Untitled.canvas"
   ]
 }
