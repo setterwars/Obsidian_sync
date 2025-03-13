@@ -308,6 +308,16 @@
               "icon": "clock",
               "title": "Reminders"
             }
+          },
+          {
+            "id": "2bd37c0af7869ad0",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 6
@@ -326,11 +336,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "2a8fd5736c39401c",
+  "active": "fbf4d864470c042e",
   "lastOpenFiles": [
+    "Networks/Main core page.md",
+    "Excalidraw/Drawing 2025-03-13 11.41.46.excalidraw.md",
+    "Excalidraw",
+    "Networks/Lecture 2.md",
+    "images/Pasted image 20250313113758.png",
     "images/Pasted image 20250313112154.png",
     "Networks/Lecture 1.md",
     "images/Pasted image 20250313105401.png",
@@ -355,28 +375,23 @@
     "images/Pasted image 20250306212422.png",
     "Databases/All weeks In one.md",
     "images/Pasted image 20250303191850.png",
-    "images/Pasted image 20250304160318.png",
     "Ink/Writing/2025.3.5 - 10.59am.writing",
-    "images/Pasted image 20250304202954.png",
     "System and Networks administration/Lecture 7.md",
     "Ink/Writing/2025.2.28 - 13.05pm.writing",
     "Databases/Lecture 6.md",
     "System and Networks administration/Lecture 6.md",
     "Ink/Writing/2025.2.21 - 14.43pm.writing",
     "Ink/Writing/2025.2.21 - 13.58pm.writing",
-    "Ink/Writing/2025.2.21 - 13.03pm.writing",
     "Databases/WEEK 5.md",
     "Deep Learning/Глава 2.md",
     "System and Networks administration/Lecture 5.md",
     "Networks/Lecture 4.md",
     "Networks/Lecture 3.md",
-    "Networks/Lecture 2.md",
     "Databases/ERD to relational model mapping & introduction to SQL.md",
     "Android app/Project Roudmap.md",
     "Machine Learning/Lecture 4.md",
     "Untitled Kanban.md",
     "Android app/Приложение для учета доходов и расходов.md",
-    "Android development/Jetpack Compose.md",
     "Untitled.canvas"
   ]
 }

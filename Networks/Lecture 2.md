@@ -73,4 +73,4 @@ Most reliable network topology is Full mesh
 - POP: Post Office 
 - IMAP: Internet Message Access
 - MIME: Multipurpose Internet Mail Extensions 
-
+![[Pasted image 20250313113758.png]]
