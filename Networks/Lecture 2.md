@@ -9,6 +9,7 @@
 | Performance Metircs     | Bandwidth(bits/sec) - max. transfer rate<br>Throughput(bits/sec) actual/average transfer rate<br>Packet loss, Error bit rate |
 | Proprietary type        | Open System: OSI-compliant, standart protocols<br>Properietary systems - private technologies and protocols                  |
 Most reliable network topology is Full mesh
+![[Pasted image 20250313112154.png]]
 # Internet: Organization principles 
 #### Home network
 - connected devices with in a close vinicity of a home.
