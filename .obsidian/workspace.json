@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Lecture 5.md",
+                "file": "Networks/Lecture 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5"
+              "title": "Lecture 6"
             }
           }
         ]
@@ -346,6 +346,7 @@
   },
   "active": "fbf4d864470c042e",
   "lastOpenFiles": [
+    "Networks/Lecture 5.md",
     "Networks/Lecture 4.md",
     "Networks/Lecture 3.md",
     "images/Pasted image 20250313140610.png",
@@ -372,7 +373,6 @@
     "2025-03-07.md",
     "Ink/Writing/2025.3.7 - 13.00pm.writing",
     "images/Pasted image 20250307125813.png",
-    "Networks/Lecture 5.md",
     "Networks/Lecture 6.md",
     "Machine Learning/All topics in one.md",
     "images/Pasted image 20250306212422.png",
