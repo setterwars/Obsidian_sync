@@ -1,6 +1,5 @@
 # Network characteristics 
 
-
 | Network Characteristics | Examples                                                                                                                     |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Scale (Geographical)    | LAN (Local area network)<br>MAN (Metropolitan area network)<br>WAN (Wide area network)                                       |

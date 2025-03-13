@@ -30,6 +30,8 @@ Communication protocol - the agreement ("protocol") on technical communication d
 - To define an exchange data format 
 - Other technical details 
 
+TDM(Time devision multiplexing) protocol - assigns time slots to nodes for sending data.
+
 # Multi point communication 
 ![[Pasted image 20250208153802.png]]
 Broadcast communication:
@@ -38,6 +40,10 @@ Broadcast communication:
 	- it reads a message, if it is destinated to it
 	- Otherwise, it discards a message.
 
+Problems:
+	- Packer routing algoritms
+	- Network security
+	- others
 
 # Key concepts of computer networks 
 
@@ -54,6 +60,9 @@ Source ans destination host
 ```
 Source host send data, Destination host recives data.
 Packets: A block of data of  a pre-defined size.
+Routing/forwarding packets across network
+
+![[Pasted image 20250313105401.png]]
 
 ##### Router like devices:
 - Switch 
