@@ -8,6 +8,9 @@ Request/response paradigms:
 * A single request at a time
 * Every client request follow with a server response 
 
+# HTTP request commands
+![[Pasted image 20250313140610.png]]
+
 
 ```handwritten-ink
 {
