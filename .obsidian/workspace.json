@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Lecture 2.md",
+                "file": "Networks/Lecture 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2"
+              "title": "Lecture 3"
             }
           }
         ]
@@ -346,10 +346,10 @@
   },
   "active": "fbf4d864470c042e",
   "lastOpenFiles": [
+    "Networks/Lecture 2.md",
     "Networks/Main core page.md",
     "Excalidraw/Drawing 2025-03-13 11.41.46.excalidraw.md",
     "Excalidraw",
-    "Networks/Lecture 2.md",
     "images/Pasted image 20250313113758.png",
     "images/Pasted image 20250313112154.png",
     "Networks/Lecture 1.md",
