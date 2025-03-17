@@ -1,5 +1,7 @@
 # Encapsulation and Deencapsulation
+
 ---
+One application message can be splitted into multiple transport-layer segments.
 ### Data encapsulation 
 - HTTP message Format 
 - TCP segment fomat
@@ -115,3 +117,5 @@ for ( ; ; ) {
 	close(connectionSocker)
 } // end of loop
 ```
+
+![[Pasted image 20250317064423.png]]
