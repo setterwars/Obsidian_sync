@@ -20,14 +20,14 @@ One application message can be splitted into multiple transport-layer segments.
 ```
 ##### Router and switch key differences:
 
-|Feature|Router|Switch|
-|---|---|---|
-|**Function**|Connects networks (LAN to WAN)|Connects devices in a LAN|
-|**Layer**|Network Layer (Layer 3)|Data Link Layer (Layer 2)|
-|**Addressing**|Uses IP addresses|Uses MAC addresses|
-|**Data Handling**|Routes data between networks|Switches data within a network|
-|**Ports**|Fewer ports (e.g., 4-8)|More ports (e.g., 24-48)|
-|**Internet Access**|Required for internet connection|No direct internet connection|
+| Feature             | Router                           | Switch                         |
+| ------------------- | -------------------------------- | ------------------------------ |
+| **Function**        | Connects networks (LAN to WAN)   | Connects devices in a LAN      |
+| **Layer**           | Network Layer (Layer 3)          | Data Link Layer (Layer 2)      |
+| **Addressing**      | Uses IP addresses                | Uses MAC addresses             |
+| **Data Handling**   | Routes data between networks     | Switches data within a network |
+| **Ports**           | Fewer ports (e.g., 4-8)          | More ports (e.g., 24-48)       |
+| **Internet Access** | Required for internet connection | No direct internet connection  |
 ##### TCPIP reference model
 
 | Application | Message  |
