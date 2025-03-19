@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -365,12 +366,32 @@
             "state": {
               "type": "reminder-list",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "43416f0a17bef09f",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "30497e8ff9515fad",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
               "icon": "clock",
               "title": "Reminders"
             }
           },
           {
-            "id": "43416f0a17bef09f",
+            "id": "045032b9bbda075d",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -406,6 +427,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Databases/Untitled.md",
+    "Databases/All weeks In one.md",
     "Machine Learning/Lecture 4.md",
     "Machine Learning/All topics in one.md",
     "Networks/Lecture 7.md",
@@ -442,7 +465,6 @@
     "2025-03-07.md",
     "Ink/Writing/2025.3.7 - 13.00pm.writing",
     "images/Pasted image 20250307125813.png",
-    "Databases/All weeks In one.md",
     "Ink/Writing/2025.3.5 - 10.59am.writing",
     "System and Networks administration/Lecture 7.md",
     "Ink/Writing/2025.2.28 - 13.05pm.writing",
@@ -451,7 +473,6 @@
     "Ink/Writing/2025.2.21 - 14.43pm.writing",
     "Ink/Writing/2025.2.21 - 13.58pm.writing",
     "Databases/WEEK 5.md",
-    "Deep Learning/Глава 2.md",
     "Untitled.canvas"
   ]
 }

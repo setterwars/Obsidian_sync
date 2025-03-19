@@ -306,4 +306,5 @@ PatientStaff relation
 
 ---
 
-# Lecture 8.
+# Lecture 9. Query Processing and query optimization (Part II)
+
