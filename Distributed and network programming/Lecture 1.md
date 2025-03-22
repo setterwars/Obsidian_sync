@@ -20,5 +20,10 @@ Scalability of DS:
 - Geographic area
 - Power/resource use
 
+Performance of DS 
+ - Performance = useful work vs time/resources
+ - Focus in Low latency and high throughput
 
-
+Chaching vs Replication:
+Replication = multiple data copies for fault tolerance 
+Chaching = tempora
