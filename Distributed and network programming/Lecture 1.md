@@ -7,23 +7,26 @@ Distributed Systems are used in: Finance, Education, Transport, Science, Environ
 Example of Distributed Systems: Google, Facebook, Skype, BitTorrent, sensor network, Robot Swarms.
 #### Why make a  system distributed?
 For better scalability, reliability, performance, to solve bigger problems.
-
-
-Trouble in DS:
+### Trouble in DS:
 - Communications may fail.
 - Nodes crash.
 - Nondeterministic behaviors.
 - Fault tolerance is hard but essential.
 
-Scalability of DS:
+### Scalability of DS:
 - Number of users/clients
 - Geographic area
 - Power/resource use
 
-Performance of DS 
+### Performance of DS 
  - Performance = useful work vs time/resources
  - Focus in Low latency and high throughput
 
-Chaching vs Replication:
+### Chaching vs Replication:
 Replication = multiple data copies for fault tolerance 
-Chaching = tempora
+Chaching = temporary copies near the users for performance
+
+### Characteristics of DS
+- Concurrency of components for shared resources
+- Lack of global clock
+- Units may fail independently
