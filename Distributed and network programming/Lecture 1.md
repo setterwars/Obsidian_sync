@@ -10,5 +10,15 @@ For better scalability, reliability, performance, to solve bigger problems.
 
 
 Trouble in DS:
-- Communications may fail
+- Communications may fail.
+- Nodes crash.
+- Nondeterministic behaviors.
+- Fault tolerance is hard but essential.
+
+Scalability of DS:
+- Number of users/clients
+- Geographic area
+- Power/resource use
+
+
 
