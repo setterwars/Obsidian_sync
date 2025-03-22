@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/All weeks In one.md",
+                "file": "Distributed and network programming/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All weeks In one"
+              "title": "Lecture 1"
             }
           }
         ]
@@ -427,8 +427,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Databases/Untitled.md",
+    "Distributed and network programming/Lecture 1.md",
+    "Distributed and network programming",
     "Databases/All weeks In one.md",
+    "Databases/Untitled.md",
     "Machine Learning/Lecture 4.md",
     "Machine Learning/All topics in one.md",
     "Networks/Lecture 7.md",
@@ -471,8 +473,6 @@
     "Databases/Lecture 6.md",
     "System and Networks administration/Lecture 6.md",
     "Ink/Writing/2025.2.21 - 14.43pm.writing",
-    "Ink/Writing/2025.2.21 - 13.58pm.writing",
-    "Databases/WEEK 5.md",
     "Untitled.canvas"
   ]
 }
