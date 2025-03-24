@@ -8,3 +8,8 @@
 - Provide changes with some kind of metadata 
 - Keep code in centralize storage
 - Work concurrently on the sane codebase
+
+```sh
+git add
+```
+![[Pasted image 20250324111639.png]]
