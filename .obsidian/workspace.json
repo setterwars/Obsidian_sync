@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System and Networks administration/Lecture 10.md",
+                "file": "Distributed and network programming/Lecture 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 10"
+              "title": "Lecture 2"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -447,10 +446,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "System and Networks administration/Lecture 10.md",
-    "images/Pasted image 20250324111639.png",
     "Distributed and network programming/Lecture 1.md",
+    "Distributed and network programming/Lecture 2.md",
+    "System and Networks administration/Lecture 10.md",
+    "Untitled.md",
+    "images/Pasted image 20250324111639.png",
     "Distributed and network programming",
     "Databases/All weeks In one.md",
     "Databases/Untitled.md",
