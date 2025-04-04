@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/lecture 8.md",
+                "file": "Databases/Lecture 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 8"
+              "title": "Lecture 10"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e1d8882c714a22f6",
@@ -296,6 +295,16 @@
             "state": {
               "type": "reminder-list",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "913c87a6f089e17a",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
               "icon": "clock",
               "title": "Reminders"
             }
@@ -322,8 +331,9 @@
   },
   "active": "fbf4d864470c042e",
   "lastOpenFiles": [
-    "Backend/3 month road map.md",
     "Databases/lecture 8.md",
+    "Databases/Lecture 10.md",
+    "Backend/3 month road map.md",
     "System and Networks administration/Lecture 8.md",
     "images/Pasted image 20250307142331.png",
     "Networks/Lecture 7.md",
@@ -367,7 +377,6 @@
     "Untitled Kanban.md",
     "Android app/Приложение для учета доходов и расходов.md",
     "Android development/Jetpack Compose.md",
-    "Networks/Active and Passive FTP.md",
     "Untitled.canvas"
   ]
 }
