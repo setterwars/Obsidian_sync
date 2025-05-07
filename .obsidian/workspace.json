@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Lecture 12.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -356,6 +356,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Networks/Lecture 12.md",
     "Ink/Writing/2025.4.11 - 13.00pm.writing",
     "Assignment 2 Introduction to ML.md",
